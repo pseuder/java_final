@@ -1,6 +1,6 @@
 # java_final
 
-執行
+執行  
 ```.../javac.exe Game.java```  
 ```.../java.exe Game```  
 
